@@ -6,19 +6,19 @@
  Copyright © 2015 CP DigitalDarkroom. All rights reserved.
 
  */
-"Add New Cydia Repo" = "Add New Cydia Repo";
-"Add Source" = "Add Source";
-"Base Exchange" = "Base Exchange";
-"CONFIGURATION" = "Configuration";
+"Add New Cydia Repo" = "اضافة مصدر جديد للسيديا";
+"Add Source" = "اضافة مصدر";
+"Base Exchange" = "تبادل قاعدة";
+"CONFIGURATION" = "خيارات عامة";
 "Comparison Exchange" = "Comparison Exchange";
-"ENABLE" = "Enable";
-"Enter Safe Mode" =  "Enter Safe Mode";
-"High:" = "High:";
-"Low:" = "Low:";
-"MAKERS" = "Makers";
-"Not Right Now" = "Not Right Now";
-"Play/Pause" = "Play/Pause";
-"Power Off" = "Power Off";
+"ENABLE" = "تمكين";
+"Enter Safe Mode" =  "ادخل للوضع الآمن";
+"High:" = "فهرنهايت:";
+"Low:" = "مئوي:";
+"MAKERS" = "الفريق";
+"Not Right Now" = "عدم التشغيل الآن";
+"Play/Pause" = "تشغيل/ايقاف";
+"Power Off" = "ايقاف التشغيل";
 "Power Off Confirmation" = "Are you sure you want to power off your device?";
 "Put Device In SafeMode" = "Put Device In SafeMode";
 "Quick Restart Device" = "Quick Restart Device";
